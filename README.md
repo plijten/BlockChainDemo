@@ -23,7 +23,7 @@ De APPX bestand voor de installatie in Windows is bijgesloten in de repo omdat G
 
 2. **Clone het project**
    ```bash
-   git clone https://github.com/jouw-gebruikersnaam/ganache-csharp-transaction.git
+   git clone https://github.com/plijten/blockchaindemo.git
    cd ganache-csharp-transaction
    ```
 
